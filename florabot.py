@@ -17,7 +17,7 @@ def start(update: Update, context: CallbackContext):
 #Reply Video
 def floranime(update: Update, context: CallbackContext):
 	update.message.reply_video(
-		"link-video-[format:mp4]")
+		"https://github.com/hasubieruha/florabot/blob/main/video/floranime.mp4")
 
 
 # Error Command
